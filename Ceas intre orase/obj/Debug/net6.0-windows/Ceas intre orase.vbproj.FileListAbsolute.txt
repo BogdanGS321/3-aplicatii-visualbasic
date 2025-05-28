@@ -1,0 +1,33 @@
+C:\Users\Bogdi\source\repos\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.exe
+C:\Users\Bogdi\source\repos\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.deps.json
+C:\Users\Bogdi\source\repos\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.runtimeconfig.json
+C:\Users\Bogdi\source\repos\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.dll
+C:\Users\Bogdi\source\repos\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.pdb
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.vbproj.AssemblyReference.cache
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas_intre_orase.Form1.resources
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.vbproj.GenerateResource.cache
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.AssemblyInfoInputs.cache
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.AssemblyInfo.vb
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.vbproj.CoreCompileInputs.cache
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.dll
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\refint\Ceas intre orase.dll
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.pdb
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.genruntimeconfig.cache
+C:\Users\Bogdi\source\repos\Ceas intre orase\obj\Debug\net6.0-windows\ref\Ceas intre orase.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.exe
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.deps.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.runtimeconfig.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\bin\Debug\net6.0-windows\Ceas intre orase.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas_intre_orase.Form1.resources
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.vbproj.GenerateResource.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.AssemblyInfoInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.AssemblyInfo.vb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.vbproj.CoreCompileInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\refint\Ceas intre orase.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\Ceas intre orase.genruntimeconfig.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Ceas intre orase\obj\Debug\net6.0-windows\ref\Ceas intre orase.dll

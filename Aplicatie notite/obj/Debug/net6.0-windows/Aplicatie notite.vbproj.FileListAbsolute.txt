@@ -1,0 +1,37 @@
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.vbproj.AssemblyReference.cache
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie_notite.Form1.resources
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie_notite.Form2.resources
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.vbproj.GenerateResource.cache
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.AssemblyInfoInputs.cache
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.AssemblyInfo.vb
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.vbproj.CoreCompileInputs.cache
+C:\Users\Bogdi\source\repos\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.exe
+C:\Users\Bogdi\source\repos\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.deps.json
+C:\Users\Bogdi\source\repos\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.runtimeconfig.json
+C:\Users\Bogdi\source\repos\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.dll
+C:\Users\Bogdi\source\repos\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.pdb
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.dll
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\refint\Aplicatie notite.dll
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.pdb
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.genruntimeconfig.cache
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\ref\Aplicatie notite.dll
+C:\Users\Bogdi\source\repos\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie_notite.Form3.resources
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.exe
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.deps.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.runtimeconfig.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\bin\Debug\net6.0-windows\Aplicatie notite.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie_notite.Form1.resources
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie_notite.Form2.resources
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie_notite.Form3.resources
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.vbproj.GenerateResource.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.AssemblyInfoInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.AssemblyInfo.vb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.vbproj.CoreCompileInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\refint\Aplicatie notite.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\Aplicatie notite.genruntimeconfig.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Aplicatie notite\obj\Debug\net6.0-windows\ref\Aplicatie notite.dll
